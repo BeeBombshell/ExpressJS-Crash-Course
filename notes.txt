@@ -26,3 +26,15 @@ Used in combination with React, Angualar, and Vue.
 - High order array methods - forEach, map, filter
 - Arrow Functions
 
+--------------------------------------------------------------------------------------
+
+# Basic Route Handing
+
+- Fetch data from database using mongoDB, postgres, or any other database.
+- Requests and Responses(HTTP Responses to send back json data, or render objects)
+- Create Middleware
+- Redirect response using res.Redirect()
+- Parse incoming data
+- Has a router
+
+--------------------------------------------------------------------------------------
