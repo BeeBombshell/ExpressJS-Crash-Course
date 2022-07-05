@@ -1,0 +1,8 @@
+# What is ExpressJs?
+
+Express is a fast, opinionated, and minimalist web framework for Node.js. 
+It is designed for building web applications and APIs. 
+
+Express is a "server-side" or "back-end" framework.
+
+Used in combination with React, Angualar, and Vue.
