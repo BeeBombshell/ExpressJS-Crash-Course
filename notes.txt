@@ -38,3 +38,16 @@ Used in combination with React, Angualar, and Vue.
 - Has a router
 
 --------------------------------------------------------------------------------------
+
+# Express Middleware
+
+Middleware Functions are functions that have access to the request and 
+response objects.
+
+Express has built in middleware functions but middleware also comes from 3rd party
+packages as well as custom middleware functions.
+
+- Execute any code before the request is handled.
+- Make changes to the request/response object.
+- End response cycle
+- Call next middleware in stack
