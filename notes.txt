@@ -21,3 +21,8 @@ Used in combination with React, Angualar, and Vue.
 
 - JS Fundamentals
 - Basic nodeJS and NPM
+- HTTP Status Codes
+- JSON
+- High order array methods - forEach, map, filter
+- Arrow Functions
+
