@@ -6,3 +6,18 @@ It is designed for building web applications and APIs.
 Express is a "server-side" or "back-end" framework.
 
 Used in combination with React, Angualar, and Vue.
+
+--------------------------------------------------------------------------------------
+
+# Why Express?
+
+- Makes handing requests simple, in less amount of code.
+- Used for Backend and APIs
+- No need for multiple langs while using js
+
+--------------------------------------------------------------------------------------
+
+# Prerequisites
+
+- JS Fundamentals
+- Basic nodeJS and NPM
