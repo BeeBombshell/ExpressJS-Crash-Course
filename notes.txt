@@ -51,3 +51,13 @@ packages as well as custom middleware functions.
 - Make changes to the request/response object.
 - End response cycle
 - Call next middleware in stack
+
+--------------------------------------------------------------------------------------
+
+STEPS:
+
+- use 
+`npm init -y` to create a package.json file with default parameters.
+
+- install express
+`npm install express`

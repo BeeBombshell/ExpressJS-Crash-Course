@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/BeeBombshell/ExpressJS-Crash-Course/issues"
   },
-  "homepage": "https://github.com/BeeBombshell/ExpressJS-Crash-Course#readme"
+  "homepage": "https://github.com/BeeBombshell/ExpressJS-Crash-Course#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
