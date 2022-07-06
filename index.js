@@ -3,9 +3,8 @@ const path = require('path');
 
 const app = express();
 
-app.get('/', (req, res) => {
-    res.sendFile(path.join(__dirname, 'public', 'index.html'));
-})
+// set a static folder
+app.use(express.static(path.join(__dirname, 'public')));
 
 // if the port number is given as an environment variable.
 const PORT = process.env.PORT || 5000;
