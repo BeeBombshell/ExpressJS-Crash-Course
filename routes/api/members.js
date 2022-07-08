@@ -20,4 +20,9 @@ router.get('/:id', (req, res) => {
     }
 })
 
+// create member
+router.post('/', (req, res) => {
+    res.send(req.body)
+})
+
 module.exports = router;
